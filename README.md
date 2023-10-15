@@ -1,16 +1,46 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Chiefs</title>
+  <style>
+    .line {
+     border-bottom: 1px solid rgb(109, 107, 107); /* Параметры линии */
+    }
+   </style>
+  <style>
+   .leftstr, .rightstr {
+    float: left; /* Обтекание справа */ 
+    width: 50%; /* Ширина текстового блока */ 
+   }
+   .rightstr {
+    text-align: right; /* Выравнивание по правому краю */ 
+   }
+  </style>
+ </head>
+ <body>
+  <p class="leftstr"><font size="6" color="black" face="Times New Roman">recipe book</font></p>
+  <p class="rightstr">
+      <form> 
+    <input type="text" name=text" class="search" placeholder"Search here!">
+    <input type="submit" name="submit" class="submit" value="Search">
+  </form>
+</p>
+  <div style="clear: left"></div>
+  <div class="line"></div>
+  <p align="right">Home   Contact   Log in   Contest</p>
+  <p><font size="12" color="black" face="Jomolhari">Pizzas</p></font>
+  <p>
+    <img src="Rectangle 3 (1).jpg">
+  </p>
+  <p><font size="12" color="black" face="Jomolhari">Soups</p></font>
+  <p>
+    <img src="soup2.jpg" width="318" height="134" >
+  </p>
+  <div class="line"></div>
+  
+  
 
-<!--
-**RasulDzH/RasulDzH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ </body>
+</html>
