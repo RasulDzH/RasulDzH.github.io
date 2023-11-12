@@ -1,1 +1,8 @@
-
+<link rel="stylesheet" href="styles.css">
+p{
+  font-family:fantasy;
+  font-style: oblique;
+}
+h1{
+  font-weight:700
+}
